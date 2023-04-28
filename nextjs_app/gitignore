@@ -1,0 +1,13 @@
+Your next task is to create a next.js application that will list all cyber-security related news from NewsAPI. It should be similar to news applications like Google News or Flipboard. 
+
+- It should have a home page listing all the news in a series of cards that include the headline, a short description, the date and time of publication, the source, and the author. 
+
+- Search and filter functionality should be added. 
+
+- Each card should open a page that contains the article when clicked. This page should also have a listing of similar news, a button to share, and a read more button/link that redirects to the respective sources.
+
+- Additionally, you can add more features that are available through this API.
+
+
+
+api key=2f28a53a00d44c9fa4ae7c1119bd1822

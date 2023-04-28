@@ -1,0 +1,25 @@
+.more {
+    width:1000px;
+    padding: 5%;
+    margin-left: 20%;
+    border: 10px solid #020000;
+}
+
+.more img{
+    width: 1000px;
+    border: 5px #020000 solid;
+}
+
+.more h1{
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+} 
+
+.more p{
+    color:white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.more article{
+    color:beige;   
+}

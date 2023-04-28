@@ -30,7 +30,7 @@ export default function Home() {
         marginTop:'10px',
       }}>
       <h1 style={{
-        color:'blue',
+        color:'red',
       }}>LATEST NEWS ON CYBERSECURITY</h1></div>
       <div>
         <SearchBar query={query} onQueryChange={setQuery}/>
@@ -61,8 +61,8 @@ export default function Home() {
           style={{
             height: "40px",
             width: "300px",
-            fontSize:"30px",
             font: "message-box",
+            fontSize:"30px",
             borderRadius: "10px",
             backgroundColor:"#0a63db",
             border:"5px solid #1b1b1b",
